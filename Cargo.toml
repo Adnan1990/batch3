@@ -1,0 +1,12 @@
+[package]
+name = "batch3"
+version = "0.1.0"
+authors = ["Muhammad Adnan <muhammad.adnan1990@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/Adnan1990/batch3"
+homepage = "https://github.com/Adnan1990/batch3"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "Batch3 Islamabad Library Package"
+
+[dependencies]

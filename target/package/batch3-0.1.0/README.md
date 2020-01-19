@@ -14,7 +14,7 @@ authors = ["Muhammad Adnan <muhammad.adnan1990@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-batch3 = "0.1.0"
+batch3 = "0.1.1"
 ```
 
 In `src/main.rs` you can use like this:
@@ -32,7 +32,7 @@ use batch3::islamabad;
 fn main() {
     println!("Hello, world!");
     piaic();
-}
+    }
 ```
 
 now `cargo run` for results
