@@ -3,7 +3,7 @@ this is a demo rust library published on crates.io
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-`batch3 = "0.1.1"`
+`batch3 = "0.1.0"`
 
 your cargo.toml file should look like this:
 ```
