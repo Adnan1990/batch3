@@ -1,9 +1,9 @@
-# Batch3
+# First Welcome
 this is a demo rust library published on crates.io
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-`batch3 = "0.1.1"`
+`batch3 = "0.1.0"`
 
 your cargo.toml file should look like this:
 ```
@@ -14,7 +14,7 @@ authors = ["Muhammad Adnan <muhammad.adnan1990@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-batch3 = "0.1.1"
+batch3 = "0.1.0"
 ```
 
 In `src/main.rs` you can use like this:
