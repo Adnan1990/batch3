@@ -23,7 +23,7 @@ In `src/main.rs` you can use like this:
 use batch3;
 fn main() {
     println!("Hello, world!");
-    islamabad::piaic();
+    batch3::islamabad::piaic();
 }
 ```
 following will also work:
@@ -31,7 +31,7 @@ following will also work:
 use batch3::islamabad;
 fn main() {
     println!("Hello, world!");
-    piaic();
+    islamabad::piaic();
 }
 ```
 
